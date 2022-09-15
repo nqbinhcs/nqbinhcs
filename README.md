@@ -9,7 +9,7 @@
 
 Hi there, I'm **Binh**
 
-  <img align="right" width="500" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" width="450" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 My interests are with Machine Learning, Deep Learning, Computer vision, etc..;
