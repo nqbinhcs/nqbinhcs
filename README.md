@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Binh
 
 <a href="https://www.linkedin.com/in/nqbinh/">
-  <img align="left" alt="Binh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Binh's LinkdeIn" width="40px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" />
 </a>
 
 <br />
