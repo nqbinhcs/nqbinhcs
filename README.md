@@ -30,6 +30,6 @@ Hi there, I'm **Binh**
 <br />
 <br />
 
-![Binh's github stats](https://github-readme-stats.vercel.app/api?username=nqbinh47&show_icons=true&hide_border=true)
+![Binh's github stats](https://github-readme-stats.vercel.app/api?username=nqbinhcs&show_icons=true&hide_border=true)
 
-⭐️ From [nqbinh47](https://github.com/nqbinh47)
+⭐️ From [nqbinhcs](https://github.com/nqbinhcs)
