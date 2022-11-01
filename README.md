@@ -5,12 +5,11 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nqbinhcs&show_icons=true&hide_border=true">
 <br />
 
-
 ## 👨🏽‍💻 Talking about Personal Stuffs:
-- 📚 My interests are with Machine Learning, Deep Learning, Computer vision, etc;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via nqbinh.contact@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/10AF0p2oxsfknj65YNj0qY8XatAwzfkMdk/view?usp=sharing) to get more info.
+- 📚 My interests are with Machine Learning, Deep Learning, Computer vision
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email via nqbinh.contact@gmail.com to reach me
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/10AF0p2oxsfknj65YNj0qY8XatAwzfkMdk/view?usp=sharing) to get more info
 
 <a href="https://github.com/18520339" target="_blank">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqbinhcs&hide=jupyter%20notebook,html&langs_count=10&layout=compact" />
@@ -18,11 +17,11 @@
 
 ## ⚡ Languages and Tools:
 
-<code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
