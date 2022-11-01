@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:nqbinh.contact@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/nqbinh)](https://www.linkedin.com/in/nqbinh/)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=nqbinhcs&show_icons=true&hide_border=true">
+<img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=nqbinhcs&show_icons=true&hide_border=true">
 <br />
 
 ## 👨🏽‍💻 Talking about Personal Stuffs:
