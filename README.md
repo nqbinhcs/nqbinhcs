@@ -5,8 +5,6 @@
 
 <img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=nqbinhcs&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
  
-<br />
-
 ## 👨🏽‍💻 Talking about Personal Stuffs:
 - 📚 My interests are with Machine Learning, Deep Learning, Computer vision
 - 💬 Ask me about anything, I am happy to help
