@@ -3,10 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com)](mailto:nqbinh.contact@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/nqbinh)](https://www.linkedin.com/in/nqbinh/)
 
-
 <img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=nqbinhcs&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
  
-
 <br />
 
 ## 👨🏽‍💻 Talking about Personal Stuffs:
