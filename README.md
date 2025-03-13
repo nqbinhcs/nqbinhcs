@@ -8,8 +8,7 @@
 ## 👨🏽‍💻 Talking about Personal Stuffs:
 - 📚 My interests are with Machine Learning, Deep Learning, Computer vision
 - 💬 Ask me about anything, I am happy to help
-- 📫 Please email via nqbinh@selab.hcmus.edu.vn to reach me
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/10AF0p2oxsfknj65YNj0qY8XatAwzfkMdk/view?usp=sharing) to get more info
+
 
 
 
